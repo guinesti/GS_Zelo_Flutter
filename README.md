@@ -77,6 +77,34 @@ Início (navegação inferior)
 
 ## Prints das telas
 
+### Splash 
+<img width="1917" height="1018" alt="Splash" src="https://github.com/user-attachments/assets/5370417a-e16b-4049-b521-3296e30d3556" />
+
+### Introdução
+<img width="1917" height="1017" alt="Introdução" src="https://github.com/user-attachments/assets/6c9dd677-1020-48bd-a93e-116aa3519287" />
+
+### Ocorrências
+<img width="1917" height="1017" alt="Ocorrências" src="https://github.com/user-attachments/assets/5223a575-5ed3-4f16-a94f-53fbae09a31d" />
+
+### Detalhes da ocorrência
+<img width="1917" height="1020" alt="Detalhes da ocorrência" src="https://github.com/user-attachments/assets/3cecffc4-3f98-45f3-977c-6616c4c2f0b3" />
+
+<img width="1917" height="1018" alt="Detalhes da ocorrência em execução" src="https://github.com/user-attachments/assets/a6aec55c-8544-4efe-895b-09b1e1b14cd4" />
+
+### Registrar ocorrência
+<img width="1917" height="1020" alt="Registrar ocorrência" src="https://github.com/user-attachments/assets/4905d6e4-29fd-4c5c-a65e-34c244c348f5" />
+
+### Bairros
+<img width="1917" height="1022" alt="Bairros" src="https://github.com/user-attachments/assets/83d27c1f-e9de-4c9a-8350-6040dc1344a8" />
+
+### Acompanhando
+<img width="1917" height="1017" alt="Acompanhando" src="https://github.com/user-attachments/assets/9da6e008-19a0-4bad-bccc-8bde11d13821" />
+
+### Sobre
+<img width="1917" height="1020" alt="Sobre" src="https://github.com/user-attachments/assets/4624b916-03f2-4c94-ae0b-cbd205c7dcfa" />
+
+<img width="1917" height="1018" alt="Sobre — configurações" src="https://github.com/user-attachments/assets/645839f0-03de-4c13-93b1-d41095255bd0" />
+
 ## Arquitetura
 
 O projeto separa interface, modelos, serviços e acesso aos dados. As telas não contêm regras de negócio: elas chamam os serviços e atualizam a interface com `setState`.
