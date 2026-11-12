@@ -149,29 +149,4 @@ lib/
 | Interações: item da lista → detalhes, busca, filtros, acompanhar, confirmar, avaliar, atualizar         | `ocorrencias_screen.dart`, `detalhe_ocorrencia_screen.dart`, `acompanhando_screen.dart`                                              |
 | Organização, separação de responsabilidades e widgets reutilizáveis                                     | Estrutura descrita em Arquitetura                                                                                                    |
 
-## Como executar
 
-Pré-requisito: Flutter 3.24 ou superior.
-
-```bash
-# 1. Gerar as pastas de plataforma (android, ios...) — mantém o código em lib/
-flutter create . --project-name zelo --org br.com.fiap --platforms android,ios
-
-# 2. Instalar as dependências
-flutter pub get
-
-# 3. Rodar
-flutter run
-```
-
-Testes unitários (prioridade, models e utilitários):
-
-```bash
-flutter test
-```
-
-> O arquivo `android/app/src/main/AndroidManifest.xml` já inclui a permissão de internet, necessária para o build de release consumir as APIs.
-
-## Vídeo pitch
-
-Link (YouTube, público): **ADICIONAR LINK**
